@@ -1,0 +1,452 @@
+[
+    {
+        "type": "travel",
+        "prompts": [
+            {
+                "zh": "故宫有哪些著名的建筑和景点？这些建筑的历史和文化背景是怎样的？",
+                "en": "What are the famous buildings and attractions in the Forbidden City? What are the historical and cultural backgrounds of these buildings?"
+            },
+            {
+                "zh": "西湖的美景和文化底蕴是什么？除了景区外，周边还有哪些传统文化活动或文物可体验？",
+                "en": "What are the beautiful scenery and cultural heritage of West Lake? Besides the scenic area, what traditional cultural activities or relics can be experienced nearby?"
+            },
+            {
+                "zh": "张家界的奇峰异景有哪些？这些自然景观的形成原因是什么？有哪些登山路线和观景点？",
+                "en": "What are the peculiar peaks and unusual landscapes in Zhangjiajie? What are the reasons for the formation of these natural landscapes? What are the climbing routes and viewpoints?"
+            },
+            {
+                "zh": "华山的险峻和壮丽是什么样的？登山线路有哪些？有哪些历史文化遗迹或传说与华山相关？",
+                "en": "What are the steepness and magnificence of Mount Hua? What are the climbing routes? What are the historical and cultural relics or legends related to Mount Hua?"
+            },
+            {
+                "zh": "成都的熊猫基地如何观赏到熊猫？除了熊猫基地外，成都还有哪些其他值得游览的景点？",
+                "en": "How can we observe pandas at the Chengdu Research Base of Giant Panda Breeding? Besides the panda base, what other attractions are worth visiting in Chengdu?"
+            },
+            {
+                "zh": "九寨沟的彩池和瀑布景色如何？这些景色的形成原因是什么？有哪些徒步线路或观景点可游览？",
+                "en": "What are the colors and waterfalls like in Jiuzhaigou Valley? What are the reasons for the formation of these sceneries? What hiking routes or viewpoints are available for visiting?"
+            },
+            {
+                "zh": "黄山的云海和奇松怎么欣赏？有哪些登山路线和观景台适合观赏日出或云海？",
+                "en": "How can we appreciate the sea of clouds and peculiar pines in Huangshan? What climbing routes and viewpoints are suitable for watching the sunrise or sea of clouds?"
+            },
+            {
+                "zh": "长城外的长城和八达岭长城有什么不同？这些长城的历史故事和军事意义是怎样的？",
+                "en": "What are the differences between the sections of the Great Wall outside Beijing and the Badaling Great Wall? What are the historical stories and military significance of these sections of the Great Wall?"
+            },
+            {
+                "zh": "丽江古城有什么特色？除了古城外，丽江周边还有哪些其他自然景观或文化遗产？",
+                "en": "What are the features of the Lijiang Ancient Town? Besides the ancient town, what other natural landscapes or cultural heritages are there around Lijiang?"
+            },
+            {
+                "zh": "旅游景点的最佳季节分别是什么时候？每个景点在不同季节的景色和气候有何异同？",
+                "en": "What are the best seasons to visit tourist attractions? What are the differences in scenery and climate at each attraction during different seasons?"
+            }
+        ]
+    },
+    {
+        "type": "tradition",
+        "prompts": [
+            {
+                "zh": "春节是中国最重要的传统节日之一，它有哪些传统习俗和庆祝活动？这些习俗和活动代表着什么含义？",
+                "en": "What are the traditional customs and celebrations of the Spring Festival, one of the most important traditional festivals in China? What do these customs and activities symbolize?"
+            },
+            {
+                "zh": "清明节是中国的传统节日之一，它是如何庆祝的？人们通常在清明节期间会做些什么？",
+                "en": "Qingming Festival is one of the traditional festivals in China. How is it celebrated? What do people usually do during the Qingming Festival?"
+            },
+            {
+                "zh": "端午节是中国的传统节日之一，人们会怎样庆祝这个节日？端午节的起源和传说是什么？",
+                "en": "Dragon Boat Festival is one of the traditional festivals in China. How do people celebrate this festival? What is the origin and legend of the Dragon Boat Festival?"
+            },
+            {
+                "zh": "中秋节是中国的传统节日之一，人们会怎样庆祝这个节日？月饼是中秋节的重要象征吗？",
+                "en": "Mid-Autumn Festival is one of the traditional festivals in China. How do people celebrate this festival? Are mooncakes an important symbol of the Mid-Autumn Festival?"
+            },
+            {
+                "zh": "重阳节是中国的传统节日之一，它是如何庆祝的？人们通常会做些什么活动来庆祝重阳节？",
+                "en": "Double Ninth Festival is one of the traditional festivals in China. How is it celebrated? What activities do people usually do to celebrate the Double Ninth Festival?"
+            },
+            {
+                "zh": "元宵节是中国的传统节日之一，人们会怎样庆祝这个节日？元宵节有哪些传统活动和食品？",
+                "en": "Lantern Festival is one of the traditional festivals in China. How do people celebrate this festival? What are the traditional activities and foods of the Lantern Festival?"
+            },
+            {
+                "zh": "冬至节是中国的传统节日之一，人们会怎样庆祝这个节日？冬至节与中国传统饮食有何关系？",
+                "en": "Winter Solstice Festival is one of the traditional festivals in China. How do people celebrate this festival? What is the relationship between the Winter Solstice Festival and traditional Chinese cuisine?"
+            },
+            {
+                "zh": "腊八节是中国的传统节日之一，人们会怎样庆祝这个节日？腊八粥和腊八酒是腊八节的传统食品吗？",
+                "en": "Laba Festival is one of the traditional festivals in China. How do people celebrate this festival? Are Laba porridge and Laba wine traditional foods of the Laba Festival?"
+            },
+            {
+                "zh": "火把节是中国的传统节日之一，它是如何庆祝的？人们通常会在火把节期间进行哪些活动？",
+                "en": "Torch Festival is one of the traditional festivals in China. How is it celebrated? What activities do people usually do during the Torch Festival?"
+            },
+            {
+                "zh": "泼水节是中国的传统节日之一，人们会怎样庆祝这个节日？泼水节与水灯节有何区别？",
+                "en": "Water-Splashing Festival is one of the traditional festivals in China. How do people celebrate this festival? What is the difference between the Water-Splashing Festival and the Water Lantern Festival?"
+            }
+        ]
+    },
+    {
+        "type": "story",
+        "prompts": [
+            {
+                "zh": "《柳毅传书》: 柳毅是如何克服困难，通过何种方式完成写信给母亲的壮举？他的行动对当地社区有何影响？",
+                "en": "How did Liu Yi overcome difficulties and complete the feat of writing a letter to his mother? What impact did his actions have on the local community?"
+            },
+            {
+                "zh": "《孔融让梨》: 孔融为何选择在宴会上放弃自己的梨子？他的行为是否与其对礼仪和人情的理解有关？",
+                "en": "Why did Kong Rong choose to give up his pear at the banquet? Is his behavior related to his understanding of etiquette and human relationships?"
+            },
+            {
+                "zh": "《钟馗捉鬼》: 钟馗是如何利用智慧和勇气捉拿恶鬼的？他与恶鬼之间的斗争中是否存在深层次的象征意义？",
+                "en": "How did Zhong Kui use wisdom and courage to capture evil spirits? Is there a deeper symbolic meaning in the struggle between him and the evil spirits?"
+            },
+            {
+                "zh": "《关公战秦琼》: 他们之间的马争夺战是如何演变成一场智谋与勇气的较量？双方是否因此增进了彼此的了解与尊重？",
+                "en": "How did the horse dispute between them evolve into a contest of strategy and courage? Did both sides enhance their understanding and respect for each other as a result?"
+            },
+            {
+                "zh": "《梁山伯与祝英台》: 他们的相遇是否经历了种种命运的波折？他们的感情是否能够超越世俗的障碍？",
+                "en": "Did their encounter go through various twists and turns of fate? Can their feelings transcend worldly obstacles?"
+            },
+            {
+                "zh": "《二郎神骑八戒》: 他们出游的目的地是何处，他们遇到了什么样的冒险与挑战？他们的经历是否体现了某种道德或生活哲学？",
+                "en": "Where did they travel to, and what adventures and challenges did they encounter? Does their experience reflect a certain moral or life philosophy?"
+            },
+            {
+                "zh": "《唐僧取经》: 他们在取经过程中是否面临过多种困难和考验？这些挑战如何考验着他们的信念和决心？",
+                "en": "Did they face various difficulties and tests during the journey for scriptures? How did these challenges test their beliefs and determination?"
+            },
+            {
+                "zh": "《孙悟空三打白骨精》: 孙悟空是如何运用智慧和法术三次战胜白骨精的？他的胜利是否反映了善良与正义的力量？",
+                "en": "How did Sun Wukong use wisdom and magic to defeat the White Bone Demon three times? Does his victory reflect the power of kindness and justice?"
+            },
+            {
+                "zh": "《岳飞断桥》: 岳飞选择断桥是否代表了一种怎样的精神品质？他的行为是否被后人视为忠诚与爱国的象征？",
+                "en": "What kind of spiritual quality does Yue Fei's choice of breaking the bridge represent? Is his behavior regarded by later generations as a symbol of loyalty and patriotism?"
+            },
+            {
+                "zh": "《董永与七仙女》: 他们的相爱是否经历了超越凡人世界的种种考验和困难？他们的爱情是否被视为一种超越生死与世俗的真挚情感？",
+                "en": "Did their love go through various tests and difficulties beyond the mortal world? Is their love regarded as a sincere emotion beyond life and death and worldly affairs?"
+            }
+        ]
+    },
+    {
+        "type": "poetry",
+        "prompts": [
+            {
+                "zh": "《将进酒》: 这首诗中的“将进酒”是否只是简单的饮酒行为？它还有何深层含义？诗中提到的“杯莫停”的酒意象代表着什么？它与诗人的人生态度有何关联？",
+                "en": "《Invitation to Wine》: Is the phrase \"Invitation to Wine\" in this poem simply a matter of drinking? What deeper meaning does it have? What does the wine imagery of \"don't stop the cup\" mentioned in the poem represent? How is it related to the poet's attitude towards life?"
+            },
+            {
+                "zh": "《春望》: 诗人在诗中通过对春景的描绘，是否表达了对国家前途的担忧？这种担忧又是如何体现的？诗中的“国破山河在”的悲壮语气，是否反映了诗人对时局的深切关注和痛心疾首？",
+                "en": "《Spring View》: Does the poet express concerns about the country's future through his description of the spring scenery in the poem? How are these concerns reflected? Does the poignant tone of \"the country is broken but the mountains and rivers remain\" in the poem reflect the poet's deep concern and sorrow for the current situation?"
+            },
+            {
+                "zh": "《琵琶行》: 诗中的\"大弦嘈嘈如急雨，小弦切切如私语\"到底是在指什么呢？是否能详细解释一下这段诗句所表达的意思？",
+                "en": "《The Pi-pa Player》: What does the line \"The loud strings are clamorous like heavy rain, while the soft strings are mellow as whispers\" in the poem refer to? Could you elaborate on the meaning conveyed by this line?"
+            },
+            {
+                "zh": "《山居秋暝》: 诗中对山居生活的描写是否体现了诗人对俗世繁华的厌倦和对自然宁静的向往？诗人通过对秋暮景色的抒发，是否表达了一种对生命的深沉思考和对人生境界的追求？",
+                "en": "《Autumn Evening in the Mountains》: Does the description of mountain dwelling life in the poem reflect the poet's weariness of the worldly bustle and longing for natural tranquility? Does the poet's expression of the autumn dusk scenery convey a profound contemplation of life and a pursuit of spiritual fulfillment?"
+            },
+            {
+                "zh": "《赤壁》: 这首诗中的“折戟沉沙铁未销”是指什么？诗人通过对战场景象的描写，是否反映了他对时局的忧虑和对国家命运的期盼？",
+                "en": "《Red Cliffs》: What does the phrase \"broken weapons sink into the sand, but iron remains unyielding\" in this poem refer to? Does the poet's description of the battlefield reflect his concerns about the current situation and his hopes for the nation's destiny?"
+            },
+            {
+                "zh": "《静夜思》: 这首诗中的“床前明月光”是否只是描述夜晚的景象？它还有何深意？诗人通过描绘夜晚的景象，是否表达了对人生的沉思和思考？",
+                "en": "《In the Still of the Night》: Is the phrase \"I descry bright moonlight in front of my bed.\" in this poem merely describing the nighttime scenery? What deeper meaning does it have? Does the poet express contemplation and reflection on life by depicting the nighttime scene?"
+            },
+            {
+                "zh": "《登鹳雀楼》: 这首诗中的“欲穷千里目”在描述什么的景象？它是否代表着诗人的人生感慨和思考？",
+                "en": "《Ascending the Heron Tower》: Is the phrase \"Trying to see for a thousand miles\" in this poem merely describing the scenery of the tall tower? Does it represent the poet's reflections and contemplations on life?"
+            },
+            {
+                "zh": "《从军行》: 诗中的“黄沙百战穿金甲”和“不破楼兰终不还”所隐含的意义是什么？这些意象如何反映出战士的心境和境遇？",
+                "en": "《Song of the Marching Troops》: What are the implied meanings behind the phrases \"A hundred battles on the yellow sand, wearing golden armor\" and \"Without breaking through Loulan, one shall never return\" in the poem? How do these images reflect the soldiers' mindset and circumstances?"
+            },
+            {
+                "zh": "《江南春》: 诗中描绘的春天景象是否仅仅代表着自然的生机和繁荣？诗人通过对江南春景的描写，是否还表达了其他更深层的情感或主题？",
+                "en": "《Spring in Jiangnan》: Does the depiction of spring scenery in the poem merely represent the vitality and prosperity of nature? Does the poet also convey other deeper emotions or themes through the description of spring scenery in Jiangnan?"
+            },
+            {
+                "zh": "《饮湖上初晴后雨》: 这首诗中的描绘湖上的景象是否反映了自然的变幻和生命的无常？诗人通过对自然景象的描写，是否表达了对生活的感慨和对人生的思考？",
+                "en": "《Drinking at the Lake, First in Sunny, then in Rainy Weather》: Does the depiction of scenes on the lake in this poem reflect the changes of nature and the impermanence of life? Does the poet express reflections on life and contemplation on life through the description of natural scenery?"
+            }
+        ]
+    },
+    {
+        "type": "building",
+        "prompts": [
+            {
+                "zh": "长城的建造背后蕴藏着怎样的历史和文化意义？它如何影响了中国的政治、经济和文化发展？",
+                "en": "What historical and cultural significance lies behind the construction of the Great Wall of China? How did it impact China's political, economic, and cultural development?"
+            },
+            {
+                "zh": "故宫在中国历史中扮演了何种角色？它的建筑风格和设计如何反映出中国封建社会的政治和社会结构？",
+                "en": "What role does the Forbidden City play in Chinese history? How do its architectural style and design reflect the political and social structure of feudal China?"
+            },
+            {
+                "zh": "大雁塔作为佛教圣地，它的建造有着怎样的宗教背景和文化内涵？它对佛教在中国的传播和发展有何重要影响？",
+                "en": "As a Buddhist sacred site, what religious background and cultural significance are behind the construction of the Giant Wild Goose Pagoda? What significant impact did it have on the spread and development of Buddhism in China?"
+            },
+            {
+                "zh": "兵马俑是中国古代的一项壮举，它的发现对于揭示中国古代军事、艺术和社会制度有着怎样的重要意义？",
+                "en": "The Terracotta Army is a marvel of ancient China. What is the significance of its discovery in revealing ancient Chinese military, artistic, and social systems?"
+            },
+            {
+                "zh": "天坛是中国古代皇家祭祀之地，它的建筑设计和布局如何体现出古代中国人的宇宙观和儒释道哲学？",
+                "en": "The Temple of Heaven was the imperial sacrificial altar of ancient China. How does its architectural design and layout reflect the cosmology and Confucian-Buddhist-Taoist philosophy of ancient Chinese people?"
+            },
+            {
+                "zh": "颐和园是中国皇家园林的典范，它的建筑、园林和艺术景观如何体现出古代中国皇家审美观念和生活方式？",
+                "en": "The Summer Palace is an epitome of Chinese imperial gardens. How do its architecture, landscaping, and artistic landscapes reflect the aesthetic concepts and lifestyle of ancient Chinese royals?"
+            },
+            {
+                "zh": "北京鸟巢是奥运会的标志性建筑之一，它的设计和结构如何体现出现代建筑技术和中国文化传统的结合？",
+                "en": "The Beijing National Stadium, also known as the Bird's Nest, is one of the iconic buildings of the Olympics. How does its design and structure embody the integration of modern architectural technology and Chinese cultural traditions?"
+            },
+            {
+                "zh": "上海东方明珠塔是上海的地标之一，它的建造背后有何历史故事？它对上海的经济、文化和城市形象有何重要影响？",
+                "en": "The Shanghai Oriental Pearl Tower is one of the landmarks of Shanghai. What historical stories are behind its construction? What significant impact did it have on Shanghai's economy, culture, and urban image?"
+            },
+            {
+                "zh": "南京中山陵是中国近代史的见证，它的建造和设计如何体现出中国人民对民主革命和国家独立的追求和纪念？",
+                "en": "The Sun Yat-sen Mausoleum in Nanjing bears witness to modern Chinese history. How does its construction and design reflect the Chinese people's pursuit and commemoration of democratic revolution and national independence?"
+            },
+            {
+                "zh": "成都宽窄巷子是中国传统文化的代表之一，它的历史渊源和文化内涵如何反映出中国古代城市生活和社会风貌？",
+                "en": "Kuanzhai Alley in Chengdu is one of the representatives of traditional Chinese culture. How does its historical origin and cultural significance reflect ancient urban life and social customs in China?"
+            }
+        ]
+    },
+    {
+        "type": "history",
+        "prompts": [
+            {
+                "zh": "秦始皇统一六国后，对中国历史和文化产生了怎样的影响？他的统一政策和措施对中国古代社会和政治格局有何重大改变？",
+                "en": "After the unification of the six states by Qin Shi Huang, what impact did he have on Chinese history and culture? What significant changes did his unification policies and measures bring to ancient Chinese society and political landscape?"
+            },
+            {
+                "zh": "汉武帝时期是中国历史上的一个重要时期，他的改革和政策对中国古代政治、经济和文化有何影响？",
+                "en": "The reign of Emperor Wu of Han was an important period in Chinese history. How did his reforms and policies influence ancient Chinese politics, economy, and culture?"
+            },
+            {
+                "zh": "唐朝是中国古代的一个辉煌时代，它的疆域扩张和政治制度对中国历史和文化有何重要影响？",
+                "en": "The Tang Dynasty was a glorious period in ancient China. What significant impact did its territorial expansion and political system have on Chinese history and culture?"
+            },
+            {
+                "zh": "宋朝是中国历史上的一个重要时期，它的科技发展和文化繁荣对中国古代社会有何影响？",
+                "en": "The Song Dynasty was an important period in Chinese history. What impact did its technological development and cultural prosperity have on ancient Chinese society?"
+            },
+            {
+                "zh": "明清时期是中国历史上的一个重要时期，它的政治制度和社会结构对中国古代和现代社会有何影响？",
+                "en": "The Ming and Qing Dynasties were important periods in Chinese history. What impact did their political systems and social structures have on ancient and modern Chinese society?"
+            },
+            {
+                "zh": "夏商周是中国古代历史上的三个重要朝代，它们的政治、文化和社会制度有何特点和影响？",
+                "en": "The Xia, Shang, and Zhou Dynasties were three important dynasties in ancient Chinese history. What were the characteristics and influences of their political, cultural, and social systems?"
+            },
+            {
+                "zh": "春秋战国时期是中国古代历史上一个重要的时期，它的兴衰和变革对中国古代社会有何影响？",
+                "en": "The Spring and Autumn Period and the Warring States Period were important periods in ancient Chinese history. What impact did their rise, decline, and reforms have on ancient Chinese society?"
+            },
+            {
+                "zh": "中华民族的形成和发展是中国历史上一个重要的过程，它涵盖了哪些历史事件和文化传统？",
+                "en": "The formation and development of the Chinese nation is an important process in Chinese history. What historical events and cultural traditions does it encompass?"
+            },
+            {
+                "zh": "近代中国历史经历了什么样的变革和发展？它的社会、政治和文化格局发生了哪些重大变化？",
+                "en": "What kind of changes and developments did modern Chinese history undergo? What significant changes occurred in its social, political, and cultural landscape?"
+            },
+            {
+                "zh": "中华人民共和国成立后，中国历史进入了一个新的时代，它的国际地位和影响力发生了怎样的变化？",
+                "en": "After the founding of the People's Republic of China, Chinese history entered a new era. How did its international status and influence change?"
+            }
+        ]
+    },
+    {
+        "type": "philosophy",
+        "prompts": [
+            {
+                "zh": "孔子的儒家思想对中国文化和社会的发展产生了何种深远影响？他的仁爱和中庸之道如何指导了中国人民的行为和思想？",
+                "en": "What profound impact did the Confucian thought of Confucius have on the development of Chinese culture and society? How did his ideas of benevolence and the Doctrine of the Mean guide the behavior and thoughts of the Chinese people?"
+            },
+            {
+                "zh": "老子的道家思想在中国哲学史上具有重要地位，它的核心理念是什么？它如何影响了中国古代和现代社会？",
+                "en": "The Daoist thought of Laozi occupies an important position in the history of Chinese philosophy. What are its core concepts? How did it influence ancient and modern Chinese society?"
+            },
+            {
+                "zh": "墨子的墨家思想是中国古代思想的重要流派之一，它强调什么价值观和原则？它在中国哲学史上有何地位和影响？",
+                "en": "The Mohist thought of Mozi is one of the important schools of thought in ancient Chinese philosophy. What values and principles does it emphasize? What is its status and influence in the history of Chinese philosophy?"
+            },
+            {
+                "zh": "孟子的性恶论和性善论对中国哲学史有何重要意义？他的仁爱思想如何影响了中国古代社会和道德观念？",
+                "en": "What is the significance of Mencius's theory of innate evil and innate goodness in the history of Chinese philosophy? How did his idea of benevolence influence ancient Chinese society and moral concepts?"
+            },
+            {
+                "zh": "荀子的性恶论和性善论在中国哲学史上有何地位和影响？他的政治理念和伦理观如何影响了中国古代社会？",
+                "en": "What is the status and influence of Xunzi's theory of innate evil and innate goodness in the history of Chinese philosophy? How did his political ideas and ethical views influence ancient Chinese society?"
+            },
+            {
+                "zh": "道德经是中国哲学的经典之作，它的核心理念和主题是什么？它对中国古代和现代人们的思想和行为有何启示？",
+                "en": "The Tao Te Ching is a classic in Chinese philosophy. What are its core concepts and themes? What enlightenment does it offer for the thoughts and behaviors of ancient and modern Chinese people?"
+            },
+            {
+                "zh": "《庄子》是中国哲学的重要著作，它的主要内容和思想有何特点？它对中国古代和现代人们的思想和生活有何影响？",
+                "en": "The Zhuangzi is an important work in Chinese philosophy. What are its main contents and ideas? What influence does it have on the thoughts and lives of ancient and modern Chinese people?"
+            },
+            {
+                "zh": "陆玄《大学》和《中庸》是中国儒家经典之作，它们的主要内容和思想是什么？它们如何影响了中国古代和现代社会？",
+                "en": "The Great Learning and the Doctrine of the Mean by Lü Xun are classics of Confucianism in China. What are their main contents and ideas? How did they influence ancient and modern Chinese society?"
+            },
+            {
+                "zh": "《孙子兵法》是中国古代军事哲学的经典之作，它的主要思想和战略原则是什么？它对中国古代和现代军事理论的影响如何？",
+                "en": "The Art of War by Sun Tzu is a classic of ancient Chinese military philosophy. What are its main ideas and strategic principles? How did it influence ancient and modern Chinese military theory?"
+            },
+            {
+                "zh": "中国佛教的兴起和发展对中国哲学和文化产生了何种影响？它的核心理念和教义如何渗透到中国古代和现代社会？",
+                "en": "What impact did the rise and development of Chinese Buddhism have on Chinese philosophy and culture? How did its core concepts and doctrines permeate ancient and modern Chinese society?"
+            }
+        ]
+    },
+    {
+        "type": "cuisine",
+        "prompts": [
+            {
+                "zh": "《北京烤鸭》: 除了享用美味的北京烤鸭，游客还能在餐厅体验到哪些传统的烹饪技艺和食材搭配？",
+                "en": "Apart from enjoying delicious Peking duck, what traditional cooking techniques and ingredient combinations can visitors experience in the restaurant?"
+            },
+            {
+                "zh": "《麻婆豆腐》: 麻婆豆腐的独特口味和麻辣香气是如何配制而成的？它在川菜中的地位和历史渊源如何体现？",
+                "en": "How is the unique flavor and spicy aroma of Mapo tofu prepared? How does it reflect its status and historical origin in Sichuan cuisine?"
+            },
+            {
+                "zh": "《鱼香肉丝》: 鱼香肉丝是如何用多种调味料和蔬菜制作而成的？它在中国烹饪中的地位和影响如何体现？",
+                "en": "How is the fish-flavored shredded pork made with various seasonings and vegetables? How does it reflect its status and influence in Chinese cuisine?"
+            },
+            {
+                "zh": "《宫保鸡丁》: 宫保鸡丁的香辣口味和松脆口感是如何达到平衡？它的名字和起源背后有着怎样的故事？",
+                "en": "How is the balance between the spicy flavor and crispy texture of Kung Pao chicken achieved? What stories are behind its name and origin?"
+            },
+            {
+                "zh": "《小笼包》: 小笼包是如何制作的？它的特色在于何处？与传统的包子有何不同之处？",
+                "en": "How are Xiaolongbao made? What are its characteristics? How does it differ from traditional steamed buns?"
+            },
+            {
+                "zh": "《粤式烧鸭》: 粤式烧鸭的独特香味和酥脆口感是如何烹制而成的？它在广东菜系中的地位和文化价值如何体现？",
+                "en": "How is the unique flavor and crispy texture of Cantonese roasted duck achieved? How does it reflect its status and cultural value in Cantonese cuisine?"
+            },
+            {
+                "zh": "《红烧肉》: 红烧肉的香甜口味和软糯口感是如何达到的？它在中国家庭餐桌上的地位和象征意义如何体现？",
+                "en": "How is the sweet flavor and tender texture of Braised Pork Belly achieved? How does it reflect its status and symbolic significance on Chinese family dinner tables?"
+            },
+            {
+                "zh": "《干煸四季豆》: 干煸四季豆的鲜香口感和略带焦香的外皮是如何制作的？它在川菜中的地位和历史背景如何体现？",
+                "en": "How is the fresh and crispy texture of Dry-Fried Green Beans with a slightly charred surface achieved? How does it reflect its status and historical background in Sichuan cuisine?"
+            },
+            {
+                "zh": "《东坡肉》: 东坡肉是如何制作的？它的肥瘦相间和香滑口感是如何调配的？与传统的红烧肉有何不同？",
+                "en": "How is Dongpo Pork made? How is the combination of fat and lean meat and the smooth texture achieved? How does it differ from traditional Braised Pork Belly?"
+            },
+            {
+                "zh": "《杨枝甘露》: 杨枝甘露是如何制作的？它的甜美口感和清凉口感是如何调和的？在广东甜品中有何独特地位？",
+                "en": "How is Mango Pomelo Sago made? How is the sweet and refreshing taste achieved? What unique position does it hold among Guangdong desserts?"
+            }
+        ]
+    },
+    {
+        "type": "movies/music",
+        "prompts": [
+            {
+                "zh": "电影《霸王别姬》如何通过剧情、角色和视觉呈现了中国社会变革和个人命运的交织？它的影响力和意义如何在国际上展现？",
+                "en": "How does the movie 'Farewell My Concubine' portray the intertwining of social change and individual destiny in Chinese society through its plot, characters, and visuals? How is its influence and significance showcased internationally?"
+            },
+            {
+                "zh": "电影《活着》中的故事如何通过中国历史的变迁和家族命运的变化展现了人性的抉择和生存的困境？它对当代中国社会的反思和启示如何体现？",
+                "en": "How does the story of the movie 'To Live' depict the choices of human nature and the struggles of survival through the changes in Chinese history and the fate of the family? How does it reflect the reflections and insights into contemporary Chinese society?"
+            },
+            {
+                "zh": "电影《卧虎藏龙》中的武侠元素和人物内心斗争如何体现了中国文化的传承和创新？它如何影响了国际电影市场和审美观念？",
+                "en": "How do the martial arts elements and inner struggles of characters in the movie 'Crouching Tiger, Hidden Dragon' reflect the inheritance and innovation of Chinese culture? How has it influenced the international film market and aesthetic concepts?"
+            },
+            {
+                "zh": "电影《红高粱》如何通过女性视角和家族命运展现了中国近现代历史的变迁和社会风貌？它的艺术手法和文化内涵如何影响了国内外观众？",
+                "en": "How does the movie 'Red Sorghum' portray the changes in modern and contemporary Chinese history and social landscape through the female perspective and family fate? How do its artistic techniques and cultural connotations influence domestic and international audiences?"
+            },
+            {
+                "zh": "电影《大话西游》如何融合了中国传统文化和现代流行元素？它通过幽默风趣的叙事和特效呈现了哪些人性和情感主题？",
+                "en": "How does the movie 'A Chinese Odyssey' integrate Chinese traditional culture with modern popular elements? What human and emotional themes does it present through humorous and witty narrative and special effects?"
+            },
+            {
+                "zh": "电影《芳华》如何通过女性视角和青春成长的叙事展现了中国近现代历史的转折和社会变迁？它的影像风格和情感表达如何触动观众心弦？",
+                "en": "How does the movie 'Youth' depict the turning points in modern and contemporary Chinese history and social changes through the female perspective and the narrative of youth growth? How does its visual style and emotional expression touch the hearts of the audience?"
+            },
+            {
+                "zh": "电影《不能说的秘密》如何通过音乐和爱情故事展现了台湾社会和文化的多元和包容？它的音乐和剧情如何打动了观众的心灵？",
+                "en": "How does the movie 'Secret' depict the diversity and inclusiveness of Taiwanese society and culture through music and love stories? How do its music and plot touch the hearts of the audience?"
+            },
+            {
+                "zh": "电影《千与千寻》如何通过神秘的世界观和奇幻的冒险故事传达了对家庭、成长和自我发现的深刻思考？它的动画风格和主题意义如何影响了观众？",
+                "en": "How does the movie 'Spirited Away' convey profound reflections on family, growth, and self-discovery through its mysterious worldview and fantastic adventure story? How do its animation style and thematic significance influence the audience?"
+            },
+            {
+                "zh": "音乐剧《猫》如何将中国传统文化元素和西方舞台艺术相融合？它的舞美设计和音乐编曲如何展现了中国和国际的文化交流？",
+                "en": "How does the musical 'Cats' integrate Chinese traditional cultural elements with Western stage art? How do its stage design and music arrangement showcase cultural exchanges between China and the international community?"
+            },
+            {
+                "zh": "音乐电影《音乐之声》如何通过音乐和家庭故事展现了音乐的力量和对生活的热爱？它的主题和情感表达如何感染了全球观众？",
+                "en": "How does the musical film 'The Sound of Music' showcase the power of music and love for life through its music and family story? How do its themes and emotional expression resonate with global audiences?"
+            }
+        ]
+    },
+    {
+        "type": "traditional_chinese_medical_science",
+        "prompts": [
+            {
+                "zh": "中医理论中的“阴阳平衡”是如何影响人体健康和疾病治疗的？它到底是指什么？如何通过平衡阴阳来调节人体的生理功能和治疗疾病？",
+                "en": "How does the concept of 'Yin-Yang balance' in Traditional Chinese Medicine (TCM) theory affect human health and disease treatment? What does it exactly mean? How to regulate the body's physiological functions and treat diseases by balancing Yin and Yang?"
+            },
+            {
+                "zh": "中医药中的“气血流通”是如何体现人体健康和疾病的调节？如何通过促进气血流通来预防疾病和恢复健康？",
+                "en": "How does the concept of 'Qi and Blood circulation' in TCM reflect the regulation of human health and disease? How to prevent diseases and restore health by promoting the circulation of Qi and Blood?"
+            },
+            {
+                "zh": "中医药中的“五行理论”如何解释了自然界和人体的关系？能告诉我五行的演变过程吗？如何根据五行理论来诊断疾病并制定治疗方案？",
+                "en": "How does the 'Five Elements theory' in TCM explain the relationship between nature and the human body? Can you tell me the process of the Five Elements' evolution? How to diagnose diseases and develop treatment plans based on the Five Elements theory?"
+            },
+            {
+                "zh": "中医药中的“脏腑学说”是如何解释人体器官功能和疾病表现的？如何通过脏腑学说来诊断和治疗疾病？",
+                "en": "How does the 'Viscera theory' in TCM explain the functions of human organs and the manifestations of diseases? How to diagnose and treat diseases based on the Viscera theory?"
+            },
+            {
+                "zh": "中医药中的“辨证施治”是如何通过观察症状和辨别病因来制定个性化治疗方案的？如何根据辨证施治来治疗疾病？",
+                "en": "How does the principle of 'Differentiation of Syndromes for Treatment' in TCM formulate personalized treatment plans by observing symptoms and identifying etiology? How to treat diseases based on the principle of Differentiation of Syndromes for Treatment?"
+            },
+            {
+                "zh": "中医药中的“药食同源”理论如何将食物和药物相结合来预防和治疗疾病？如何根据药食同源理论来调节饮食和保健？",
+                "en": "How does the theory of 'Medicinal Food Homology' in TCM combine food and medicine to prevent and treat diseases? How to regulate diet and health based on the theory of Medicinal Food Homology?"
+            },
+            {
+                "zh": "中医药中的“针灸疗法”如何通过调节人体的气血流通和阴阳平衡来治疗疾病？如何根据患者的症状和体质来选取穴位和施行针灸？",
+                "en": "How does acupuncture therapy in TCM treat diseases by regulating the circulation of Qi and Blood and balancing Yin and Yang? How do acupuncture practitioners select acupoints and perform acupuncture based on the patient's symptoms and constitution?"
+            },
+            {
+                "zh": "中医药中的“推拿按摩”是如何通过手法按摩和调理穴位来促进气血流通和舒缓身体疲劳的？如何根据患者的症状和体质来进行推拿按摩？",
+                "en": "How does the Tuina massage in traditional Chinese medicine promote the circulation of Qi and Blood and relieve physical fatigue through manual massage and acupoint regulation? How do Tuina practitioners perform massage based on the patient's symptoms and constitution?"
+            },
+            {
+                "zh": "中医药中的“气功养生”是如何通过呼吸调节和气功练习来调和人体的阴阳平衡和增强免疫力的？如何指导患者进行气功养生练习？",
+                "en": "How does Qigong therapy in traditional Chinese medicine harmonize the Yin-Yang balance of the body and enhance immunity through breathing regulation and Qigong practice? How do Qigong instructors guide patients in practicing Qigong therapy for health maintenance?"
+            },
+            {
+                "zh": "中医药中的“中草药治疗”是如何通过中草药的药性和配伍来调节人体的气血和脏腑功能的？如何根据患者的体质和病情来调配中草药？",
+                "en": "How does herbal therapy in traditional Chinese medicine regulate the Qi and Blood and organ functions of the body through the properties and compatibility of Chinese herbal medicine? How do herbalists prepare Chinese herbal medicine based on the patient's constitution and condition?"
+            }
+        ]
+    }
+]
