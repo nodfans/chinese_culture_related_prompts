@@ -22,5 +22,3 @@
 - Movies/Music
 
 - Traditional Chinese Medical Science
-
-#### Feel free to use. Leave a comment if you want more and star the repo before you leave. Please don't make me beg you haha -,-.
